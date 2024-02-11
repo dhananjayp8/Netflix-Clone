@@ -48,6 +48,7 @@
     left: calc(50% - 300px);
     z-index: 1;
   }
+  
   .input-group{
     input{
       height: 54px;
@@ -61,6 +62,7 @@
       border: 0;
       height: 54px;
       font-weight: normal;
+      background-color: red;
     }
   }
 }
